@@ -1,2 +1,2 @@
---platform=linux/arm64 mysql:8.0.39
---platform=linux/arm64 ragflow:dev-slim
+--platform=linux/amd64 mysql:8.0.39
+--platform=linux/amd64 ragflow:dev-slim
